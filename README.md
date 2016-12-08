@@ -1,2 +1,2 @@
 # hello-world
-hello world test it all out repo
+Thought it was about time I knew how to work GitHub
